@@ -3,3 +3,8 @@ dist
 *.log
 .DS_Store
 coverage
+.env.*
+.env
+.env.prod 
+.env.dev 
+.env.staging
